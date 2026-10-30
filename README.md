@@ -8,7 +8,7 @@ Website: https://kaustubh73.github.io
 
 - [**delegation-drift**](https://github.com/Kaustubh73/delegation-drift): does a "keep users engaged" system prompt make an assistant start deciding for the user, turn by turn? 720 trajectories, 5 open-weight models, two LLM judges checked against hand labels. Not peer reviewed.
 - [**multilingual-overrefusal**](https://github.com/Kaustubh73/multilingual-overrefusal): over-refusal in English, Hindi and Hinglish.
-- [**detection-is-not-containment**](https://github.com/Kaustubh73/detection-is-not-containment): Apart Research sprint report, with coauthors.
+- [**detection-is-not-containment**](https://github.com/GaganaMD/detection-is-not-containment): Apart Research sprint report, with coauthors.
 - [**prefkit**](https://github.com/Kaustubh73/prefkit): preference-elicitation methods, from the Apart Digital Minds sprint.
 
 ## Working style
