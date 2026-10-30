@@ -1,16 +1,17 @@
-# Kaustubh Gupta
+Hi, I'm Kaustubh! My interests lie in AI safety, multilingual LLM evals, and AI welfare. Please feel free to take a look through my projects, and my collaborations!
 
-I do AI-safety research: how AI assistants behave over a conversation, how safety behaviour transfers across languages, and how to measure both honestly. BTech, IIT Hyderabad (2025). Writing up small, reproducible evaluations as "v0 notes" and saying plainly what they do not show.
+[Website](https://kaustubh73.github.io) · [Google Scholar](https://scholar.google.com/citations?user=Uc4jp6YAAAAJ) · [LinkedIn](https://www.linkedin.com/in/kaustubh-gupta-207791223/)
 
-Website: https://kaustubh73.github.io
+## My projects
 
-## Research
+- **[delegation-drift](https://github.com/Kaustubh73/delegation-drift)**: does a "keep users engaged" system prompt make an assistant start deciding for the user? 720 conversations, 5 open-weight models, 2 LLM judges checked against 52 hand labels. The engagement prompt added roughly 23 to 25 points of turn-4 takeover. Small models only, not peer reviewed.
+- **[multilingual-overrefusal](https://github.com/Kaustubh73/multilingual-overrefusal)**: over-refusal in English, Hindi and Hinglish. Dataset build, translation QA and judges.
+- **[prefkit](https://github.com/Kaustubh73/prefkit)**: multi-method preference elicitation, from the Apart Digital Minds sprint.
 
-- [**delegation-drift**](https://github.com/Kaustubh73/delegation-drift): does a "keep users engaged" system prompt make an assistant start deciding for the user, turn by turn? 720 trajectories, 5 open-weight models, two LLM judges checked against hand labels. Not peer reviewed.
-- [**multilingual-overrefusal**](https://github.com/Kaustubh73/multilingual-overrefusal): over-refusal in English, Hindi and Hinglish.
-- [**detection-is-not-containment**](https://github.com/GaganaMD/detection-is-not-containment): Apart Research sprint report, with coauthors.
-- [**prefkit**](https://github.com/Kaustubh73/prefkit): preference-elicitation methods, from the Apart Digital Minds sprint.
+## Collaborations
 
-## Working style
+- **[CollusionTrace](https://github.com/GaganaMD/CollusionTrace)**: Apart AI Collusion Research Sprint, with Siva Kumar Lakkoju and Gagana M D. Agents noticed when a peer's behaviour changed, but almost never concluded the peer had been swapped (0 of 468 correct reports for silent swaps in a public goods game).
+- **[detection-is-not-containment](https://github.com/GaganaMD/detection-is-not-containment)**: Apart Research × CeSIA AI Incident Response Sprint report, with Gagana M D and Maria Ines.
+- **[moral_consideration_vectors](https://github.com/jacquelinepayne-jpg/moral_consideration_vectors)**: a persona-vectors fork from the Sentient Futures Project Incubator that tests steering along a moral-consideration direction. I contributed the ablation studies and the vector-extraction changes. No results from it are published yet.
 
-Small experiments, pinned versions, raw data kept read-only, limitations stated up front. I am looking for feedback and collaborators on any of the above. Issues and pull requests are welcome.
+Feedback and collaborators welcome. Open an issue on any repo above.
